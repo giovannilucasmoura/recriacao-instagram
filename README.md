@@ -1,2 +1,2 @@
 # recriacao-instagram
-Recriação da página inicial do Instagram para o curso de React da Digital Innovation One
+Recriação da página inicial do Instagram para o bootcamp de React Web Developer da Digital Innovation One
